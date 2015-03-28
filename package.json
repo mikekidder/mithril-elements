@@ -1,0 +1,12 @@
+{
+  "name": "mithril-elements",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myelements.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mike Kidder",
+  "license": "ISC"
+}
